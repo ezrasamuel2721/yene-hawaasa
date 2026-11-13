@@ -1,0 +1,4 @@
+Hawassa limpia","🗑️ 清洁哈瓦萨","🗑️ Hawassa pulita","🗑️ Hawassa limpa","🗑️ Temiz Hawassa","🗑️ Hawassa Safi"],
+["💧 ውሃ & መገልገያ","💧 Water & Utilities","💧 Bishaan fi Tajaajiloota","💧 ማይን ኣገልግሎታትን","💧 Biyo & Adeegyo","💧 المياه والمرافق","💧 Eau & services publics","💧 Wasser & Versorgung","💧 Agua y servicios","💧 水务与公用事业","💧 Acqua e servizi","💧 Água e serviços","💧 Su ve Kamu Hizmetleri","💧 Maji na Huduma"],
+["🏥 ጤና","🏥 Health","🏥 Fayyaa","🏥 ጥዕና","🏥 Caafimaad","🏥 الصحة","🏥 Santé","🏥 Gesundheit","🏥 Salud","🏥 健康","🏥 Salute","🏥 Saúde","🏥 Sağlık","🏥 Afya"],
+["🎓 ትምህርት","🎓 Education","🎓 Barnoota","🎓 ትምህርቲ","🎓 Waxbarasho","🎓 التعليم","🎓 Éducation","🎓 Bil

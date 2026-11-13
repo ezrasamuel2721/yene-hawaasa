@@ -1,0 +1,4 @@
+y sanitation","Hawassa University Comprehensive Specialized Hospital Hawassa","Hawassa University Ethiopia campus schools education","Hawassa Ethiopia stadium sports recreation","Hawassa Ethiopia Tabor Mountain Lake nature adventure","Hawassa Ethiopia artists music media culture","Hawassa Ethiopia technology digital innovation","Hawassa Ethiopia global city international development","Hawassa Ethiopia people community daily life","Hawassa Ethiopia old photos archive history","Hawassa Ethiopia police fire emergency safety","Hawassa Ethiopia accessibility public spaces disability","Hawassa Ethiopia photography video city media","Hawassa Ethiopia Lake Hawassa memories recreation","Hawassa Ethiopia official city projects information"];
+const hawassaCards=[...document.querySelectorAll('.card')];
+const originalBg=hawassaCards.map(c=>getComputedStyle(c).backgroundImage);
+const usedImages=new Se

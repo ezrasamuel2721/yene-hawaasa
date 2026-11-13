@@ -1,0 +1,4 @@
+dung","🎓 Educación","🎓 教育","🎓 Istruzione","🎓 Educação","🎓 Eğitim","🎓 Elimu"],
+["🏃 ስፖርት & መዝናኛ","🏃 Sports & Recreation","🏃 Ispoortii fi Bashannana","🏃 ስፖርትን መዘናግዕን","🏃 Ciyaar & Madadaalo","🏃 الرياضة والترفيه","🏃 Sport & loisirs","🏃 Sport & Freizeit","🏃 Deporte y ocio","🏃 体育与休闲","🏃 Sport e tempo libero","🏃 Esporte e lazer","🏃 Spor ve Eğlence","🏃 Michezo na Burudani"],
+["🌿 ተፈጥሮ & ጀብዱ","🌿 Nature & Adventure","🌿 Uumama fi Imala","🌿 ተፈጥሮን ጀብዱን","🌿 Dabeecad & Dalxiis","🌿 الطبيعة والمغامرة","🌿 Nature & aventure","🌿 Natur & Abenteuer","🌿 Naturaleza y aventura","🌿 自然与探险","🌿 Natura e avventura","🌿 Natureza e aventura","🌿 Doğa ve Macera","🌿 Asili na Matukio"],
+["🎨 ጥ

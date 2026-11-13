@@ -1,0 +1,15 @@
+t();
+async function hawassaImages(q){
+  try{
+    const u='https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch='+encodeURIComponent(q)+'&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*';
+    const j=await fetch(u).then(r=>r.json());
+    return Object.values(j.query?.pages||{}).map(x=>x.imageinfo?.[0]?.thumburl||x.imageinfo?.[0]?.url).filter(Boolean);
+  }catch(e){return []}
+}
+async function rotateHawassaCard(card,i){
+  const pool=(await hawassaImages(hawassaQueries[i])).filter(u=>!usedImages.has(u));
+  if(pool.length) pool.slice(0,4).forEach(u=>usedImages.add(u));
+  const urls=pool.length?pool.slice(0,4):[originalBg[i].replace(/^url\(['"]?/,'').replace(/['"]?\)$/,'')];
+  if(!urls.length)return;
+  let n=0; card.style.backgroundImage="url('"+urls[0]+"')";
+  if(urls.length>1)setInterval(()=>{n=(n+1)%urls.length;card.style.ba

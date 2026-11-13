@@ -1,0 +1,3 @@
+,"🏨 Alojamiento","🏨 酒店与接待","🏨 Ospitalità","🏨 Hospitalidade","🏨 Konaklama","🏨 Ukarimu"],
+["🍽️ ምግብ & መመገቢያ","🍽️ Food & Dining","🍽️ Nyaata fi Bakka Nyaataa","🍽️ ምግብን መመገብን","🍽️ Cunto & Maqaayado","🍽️ الطعام والمطاعم","🍽️ Cuisine & restauration","🍽️ Essen & Gastronomie","🍽️ Comida y restaurantes","🍽️ 美食与餐饮","🍽️ Cibo e ristorazione","🍽️ Comida e restaurantes","🍽️ Yemek ve Restoranlar","🍽️ Chakula na Migahawa"],
+["🛍️ ገበያ & ንግድ","🛍️ Markets & Business","🛍️ Gabaa fi Daldala","🛍️ ዕዳጋን ንግድን","🛍️ Suuq & Ganacsi","🛍️ الأسواق والأعمال","🛍️ Marchés & commerce","🛍️ Märkte & Handel","🛍️ Mercados y comercio","🛍️ 市场与商业","🛍️ Mercati e commercio

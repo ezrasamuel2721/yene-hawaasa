@@ -1,0 +1,4 @@
+ltungen","🎪 Eventos","🎪 活动","🎪 Eventi","🎪 Eventos","🎪 Etkinlikler","🎪 Matukio"],
+["🚍 ትራንስፖርት","🚍 Transport","🚍 Geejjiba","🚍 መጓዓዝያ","🚍 Gaadiid","🚍 النقل","🚍 Transport","🚍 Verkehr","🚍 Transporte","🚍 交通","🚍 Trasporti","🚍 Transporte","🚍 Ulaşım","🚍 Usafiri"],
+["💰 ታሪፍ & መንገድ","💰 Fares & Routes","💰 Kaffaltii fi Daandii","💰 ክፍሊትን መንገድን","💰 Qiime & Waddo","💰 الأجرة والطرق","💰 Tarifs & itinéraires","💰 Fahrpreise & Routen","💰 Tarifas y rutas","💰 票价与路线","💰 Tariffe e percorsi","💰 Tarifas e rotas","💰 Ücretler ve Rotalar","💰 Nauli na Njia"],
+["🏨 መስተንግዶ","🏨 Hospitality","🏨 Keessummaa","🏨 መስተንግዶ","🏨 Martigelin","🏨 الضيافة","🏨 Hébergement","🏨 Gastgewerbe"

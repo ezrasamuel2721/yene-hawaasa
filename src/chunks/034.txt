@@ -1,0 +1,4 @@
+Hawassa Kiyya","የኔ አዋሳ","Hawassa-dii","هاواسا الخاصة بي","Mon Hawassa","Mein Hawassa","Mi Hawassa","我的哈瓦萨","La mia Hawassa","Minha Hawassa","Benim Hawassa","Hawassa Yangu"];
+const sub=["የማትረሳ","Unforgettable","Kan hin dagane","የማትረሳ","Aan la ilaawin","لا تُنسى","Inoubliable","Unvergesslich","Inolvidable","难忘","Indimenticabile","Inesquecível","Unutulmaz","Isiyosahaulika"];
+const discover=["አዋሳን በሙሉ ይወቁ","Discover Hawassa","Hawassa guutuu beeki","የአዋሳ ታሪክ","Baro Hawassa","اكتشف هاواسا","Découvrez Hawassa","Entdecke Hawassa","Descubre Hawassa","探索哈瓦萨","Scopri Hawassa","Descubra Hawassa","Hawassa'yı keşfet","Gundua Hawassa"];
+const archive=["❤️ የኔ ሐዋሳ","❤️ My Hawassa","❤️ Hawassa Kiyya","❤️ የኔ ሐዋሳ","❤️ Hawassa-dii","❤️ هاو�

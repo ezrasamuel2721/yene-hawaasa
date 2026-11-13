@@ -1,0 +1,9 @@
+Title">❤️ የኔ ሐዋሳ</h2><p id="arcDesc">የራስዎን የአዋሳ ትዝታዎች፣ ፎቶዎች፣ ቪዲዮዎችና ጽሑፎች በግል ማህደርዎ ያስቀምጡ።</p></div><div class="archiveBadge">🔒 LOCAL<br><small>YOUR MEMORY</small></div></div>
+  <textarea id="yhNote" placeholder="የዛሬን የአዋሳ ትዝታ ይጻፉ…"></textarea>
+  <div class="archiveActions">
+    <button id="yhSaveNote" class="action primary">✍️ ማስታወሻ አስቀምጥ</button>
+    <button id="yhPhoto" class="action">📷 ፎቶ አንሳ</button>
+    <button id="yhVideo" class="action">🎥 ቪዲዮ ቅረጽ</button>
+    <button id="yhFiles" class="action">📁 ፋይል ጨምር</button>
+    <button id="yhShow" class="action">🗂️ ማህደሬን አሳይ</button>
+    <button id="yhStop" class="action danger" style="display:none">⏹ ቪዲዮ አቁም

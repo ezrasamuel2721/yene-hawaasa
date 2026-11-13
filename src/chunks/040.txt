@@ -1,0 +1,3 @@
+r;
+})();
+</script><div class="detailModal" id="yhDetailModal" hidden><div class="detailBackdrop" data-close="1"></div><article class="detailPanel" role="dialog" aria-modal="true" aria-labelledby="yhDetailTitle"><button class="detailClose" id="yhDetailClose" aria-label="ዝጋ">×</button><div class="detailHero"><img id="yhDetailImg" alt=""><span id="yhDetailTag">HAWASSA</span></div><div class="detailBody"><span class="detailKicker">HAWASSA • የኔ አዋሳ</span><h2 id="yhDetailTitle"></h2><p id="yhDetailText"></p><div class="detailCols"><div><b>በዚህ ክፍል</b><ul id="yhDetailList"></ul></div><div><b>የምስል ማህደር</b><p>ምስሎች ከርዕሰ ጉዳዩ ጋር በቀጥታ የሚዛመዱ እንዲሆኑ ይመረጣሉ። የተረጋገጠ መረጃ ብቻ ይጨመራል።</p></div></div></div></article></div><script id="yh-card-details">(()=>{const data={"�

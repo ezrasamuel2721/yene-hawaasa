@@ -1,0 +1,8 @@
+width:none}.nav{position:relative;padding-bottom:12px}}
+.logoMark{background:#fff!important;border:1px solid #e4ecee;overflow:hidden;padding:2px;box-shadow:0 5px 18px #073b4c18}
+.logoMark img{width:100%;height:100%;object-fit:contain;display:block;border-radius:13px}
+.heroSlide:nth-child(2){background-image:linear-gradient(90deg,#073b4cbb,#073b4c22),url('https://upload.wikimedia.org/wikipedia/commons/a/a1/Take_a_Ride%2C_Lake_Hawassa_%2810903517836%29.jpg')!important}
+.heroSlide:nth-child(3){background-image:linear-gradient(90deg,#073b4cbb,#073b4c22),url('https://hawassa.gov.et/sites/default/files/landmark/par.JPG')!important}
+.heroSlide:nth-child(4){background-image:linear-gradient(90deg,#073b4cbb,#073b4c22),url('https://www.ena.et/documents/d/eng/640140314_1527484425400999_93980335460330359_n-jpg')!important}
+.heroActions{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}
+.heroAction

@@ -1,0 +1,5 @@
+ote").disabled=false;render()};
+$("yhFiles").onclick=()=>$("yhFileInput").click();
+$("yhFileInput").onchange=async e=>{for(const f of e.target.files){const type=f.type.startsWith("image/")?"image":f.type.startsWith("video/")?"video":null;if(type)await add({type,blob:f,name:f.name})}e.target.value="";$("yhStatus").textContent="✓ ፋይሎቹ ተቀምጠዋል።";render()};
+$("yhPhoto").onclick=()=>{const x=document.createElement("input");x.type="file";x.accept="image/*";x.capture="environment";x.onchange=async()=>{if(x.files[0]){await add({type:"image",blob:x.files[0]});$("yhStatus").textContent="✓ ፎቶው ተቀምጧል።";render()}};x.click()};
+$("yhVideo").onclick=async()=>{try{if(!navigator.mediaDevices?.getUserMedia||typeof MediaRecorder==="undefined")throw 0;stream=await navigator.mediaDevices.getUserMedia({video:{facingMode:"environment"},audio:true});const cam=$("yhCam")

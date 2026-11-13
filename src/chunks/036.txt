@@ -1,0 +1,5 @@
+>{let db=null,stream=null,rec=null,chunks=[];const $=id=>document.getElementById(id);
+function openDB(){return new Promise((ok,no)=>{const q=indexedDB.open("yene-hawassa-memory",1);q.onupgradeneeded=()=>q.result.createObjectStore("items",{keyPath:"id",autoIncrement:true});q.onsuccess=()=>{db=q.result;ok(db)};q.onerror=()=>no(q.error)})}
+async function add(x){await openDB();return new Promise((ok,no)=>{const t=db.transaction("items","readwrite");t.objectStore("items").add({...x,created:Date.now()});t.oncomplete=ok;t.onerror=()=>no(t.error)})}
+async function all(){await openDB();return new Promise((ok,no)=>{const q=db.transaction("items").objectStore("items").getAll();q.onsuccess=()=>ok(q.result);q.onerror=()=>no(q.error)})}
+async function remove(id){await openDB();return new Promise((ok,no)=>{const t=db.transaction("items","readwrite");t.objectStore("items").delete(id);t.oncomplete=ok;t.o

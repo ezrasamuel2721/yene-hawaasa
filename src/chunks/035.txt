@@ -1,0 +1,6 @@
+�سا الخاصة بي","❤️ Mon Hawassa","❤️ Mein Hawassa","❤️ Mi Hawassa","❤️ 我的哈瓦萨","❤️ La mia Hawassa","❤️ Minha Hawassa","❤️ Benim Hawassa","❤️ Hawassa Yangu"];
+function apply(i){localStorage.setItem("yene_hawassa_lang",langs[i]);const b=document.querySelector(".brand strong"),s=document.querySelector(".brand small"),d=document.querySelector(".section h2");if(b)b.textContent=brand[i];if(s)s.textContent=sub[i];if(d&&d.textContent.includes("አዋሳን በሙሉ"))d.textContent=discover[i];const a=document.getElementById("arcTitle");if(a)a.textContent=archive[i];document.documentElement.lang=langs[i];}
+document.querySelectorAll(".langs button").forEach((b,i)=>b.addEventListener("click",()=>apply(i)));
+const saved=langs.indexOf(localStorage.getItem("yene_hawassa_lang"));if(saved>=0)apply(saved)})();
+</script><script id="yh-archive-final">
+(()=

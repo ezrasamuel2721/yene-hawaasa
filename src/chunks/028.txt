@@ -1,0 +1,8 @@
+</button>
+  </div>
+  <input id="yhFileInput" type="file" accept="image/*,video/*" multiple hidden>
+  <video id="yhCam" autoplay playsinline muted style="display:none;width:100%;max-height:360px;border-radius:18px;margin-top:14px"></video>
+  <div id="yhStatus" class="archiveStatus">የግል ማህደርዎ በዚህ መሣሪያ ላይ ይጠበቃል።</div>
+  <div id="yhItems" class="archiveItems"></div>
+</div></section>
+<section class="section"><h2>🗺️ አዋሳ በካርታ</h2><iframe class="map" src="https://www.openstreetmap.org/export/embed.html?bbox=38.37%2C6.95%2C38.60%2C7.15&layer=mapnik"></iframe></section></main><footer><strong>የኔ አዋሳ — የማትረሳ</strong><p>የተመሰረተ/የተፈጠረ በ <b>እዝራ ሳሙኤል አበበ</b></p><p>0962244464 • ezrasamuel2721@gmail.com</p><span class="lock">🔒 የገጹ ዋና አወቃቀር ተጠብቆ 

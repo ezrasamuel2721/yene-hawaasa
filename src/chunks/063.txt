@@ -1,0 +1,4 @@
+🏙️ Città di Hawassa","🏙️ Cidade de Hawassa","🏙️ Hawassa Şehri","🏙️ Jiji la Hawassa"],
+["🗺️ ካርታ & ቦታዎች","🗺️ Map & Places","🗺️ Kaartaa fi Bakkeewwan","🗺️ ካርታን ቦታታትን","🗺️ Khariidad & Goobo","🗺️ الخريطة والأماكن","🗺️ Carte & lieux","🗺️ Karte & Orte","🗺️ Mapa y lugares","🗺️ 地图与地点","🗺️ Mappa e luoghi","🗺️ Mapa e locais","🗺️ Harita ve Yerler","🗺️ Ramani na Maeneo"],
+["🌍 Discover Hawassa","🌍 Discover Hawassa","🌍 Hawassa Beeki","🌍 ሓዋሳ ፍለጥ","🌍 Baro Hawassa","🌍 اكتشف هاواسا","🌍 Découvrez Hawassa","🌍 Entdecke Hawassa","🌍 Descubre Hawassa","🌍 探索哈瓦萨","🌍 Scopri Hawassa","🌍 Descubra Hawassa","🌍 Hawassa'yı Keşfet","🌍 Gundua Hawassa"],
+["📜 ታሪክ & ቅርስ","📜 History & H

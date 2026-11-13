@@ -1,0 +1,4 @@
+ckgroundImage="url('"+urls[n]+"')"},5000+(i%5)*300);
+}
+(async()=>{for(let i=0;i<hawassaCards.length;i++) await rotateHawassaCard(hawassaCards[i],i)})();
+</script><script id="yh-video-safe-fix">(()=>{const v=document.getElementById("yhVideo");if(!v)return;const n=v.cloneNode(true);v.replaceWith(n);n.onclick=async()=>{const fallback=()=>{const x=document.createElement("input");x.type="file";x.accept="video/*";x.capture="environment";x.onchange=async()=>{const f=x.files&&x.files[0];if(f){await addItem({type:"video",name:f.name||("hawassa-video-"+Date.now()+".mp4"),blob:f});document.getElementById("yhStatus").textContent="✓ ቪዲዮው ተቀምጧል።";renderArchive()}};x.click()};try{if(!navigator.mediaDevices?.getUserMedia||typeof MediaRecorder==="undefined")return fallback();stream=await navigator.mediaDevices.getUserMedia({video:{facingMode:"environment"},audio:true});cam.srcObject

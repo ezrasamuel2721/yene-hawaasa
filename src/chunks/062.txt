@@ -1,0 +1,3 @@
+ ya baadaye.","Kituo cha Huduma","Tazama Ramani","Gundua Hawassa","📜 Historia ya Hawassa — Kumbukumbu ya Jiji","🗺️ Hawassa kwenye Ramani","❤️ Hawassa Yangu","Hifadhi kumbukumbu, picha, video na maandishi yako ya Hawassa katika kumbukumbu yako binafsi.","Andika kumbukumbu ya Hawassa ya leo…","✍️ Hifadhi Dokezo","📷 Piga Picha","🎥 Rekodi Video","📁 Ongeza Faili","🗂️ Onyesha Kumbukumbu Yangu","⏹ Simamisha Video","Kumbukumbu yako binafsi huhifadhiwa kwenye kifaa hiki.","KIFAA","KUMBUKUMBU ZAKO","Ilianzishwa/imeundwa na","🔒 Muundo mkuu wa ukurasa umehifadhiwa.","Funga"]};
+const C=[
+["🏙️ የአዋሳ ከተማ","🏙️ Hawassa City","🏙️ Magaalaa Hawassa","🏙️ ከተማ ሓዋሳ","🏙️ Magaalada Hawassa","🏙️ مدينة هاواسا","🏙️ Ville de Hawassa","🏙️ Stadt Hawassa","🏙️ Ciudad de Hawassa","🏙️ 哈瓦萨市","
