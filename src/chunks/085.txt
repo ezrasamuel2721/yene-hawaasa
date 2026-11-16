@@ -1,1 +1,24 @@
-<style>#yh085{position:fixed;inset:0;background:#0009;z-index:99999;display:none;align-items:center;justify-content:center;padding:16px}#yh085.on{display:flex}#yh085 .b{background:#fff;border-radius:24px;max-width:720px;width:100%;padding:24px;max-height:88vh;overflow:auto}#yh085 h2{margin:0 40px 12px 0}#yh085 p{line-height:1.8;font-size:17px}#yh085 a{display:inline-block;background:#138a5b;color:#fff;padding:10px 14px;border-radius:12px;text-decoration:none;font-weight:800}#yh085 button{float:right;border:0;border-radius:50%;width:38px;height:38px;font-size:20px}</style><div id="yh085"><div class="b"><button>×</button><h2></h2><p></p><a target="_blank" rel="noopener">ምንጩን ይመልከቱ</a></div></div><script>(function(){const L=["🗺️ ካርታ & ቦታዎች","🌍 Discover Hawassa","📜 ታሪክ & ቅርስ","🎭 ባህል & ማንነት","🎪 ዝግጅቶች","🚍 ትራንስፖርት","💰 ታሪፍ & መንገድ","🏨 መስተንግዶ","🍽️ ምግብ & መመገቢያ","🛍️ ገበያ & ንግድ","💼 ኢንቨስትመንት","👔 ሥራ & እድል","🏛️ የከተማ አገልግሎት","📢 የዜጎች ድምጽ","🗑️ Clean Hawassa","💧 ውሃ & መገልገያ","🏥 ጤና","🎓 ትምህርት","🏃 ስፖርት & መዝናኛ","🌿 ተፈጥሮ & ጀብዱ","🎨 ጥበብ & ሚዲያ","🤖 AI Hawassa Guide","🌐 Hawassa Global","👥 ሰዎች & ማኅበረሰብ","📚 የእውቀት ማኅደር","🚨 ደᶻ�q�^
+<style>#yh085{position:fixed;inset:0;background:#0009;z-index:99999;display:none;align-items:center;justify-content:center;padding:16px}#yh085.on{display:flex}#yh085 .b{background:#fff;border-radius:24px;max-width:720px;width:100%;padding:24px;max-height:88vh;overflow:auto}#yh085 h2{margin:0 40px 12px 0}#yh085 p{line-height:1.8;font-size:17px}#yh085 a{display:inline-block;background:#138a5b;color:#fff;padding:10px 14px;border-radius:12px;text-decoration:none;font-weight:800}#yh085 button{float:right;border:0;border-radius:50%;width:38px;height:38px;font-size:20px}</style><div id="yh085"><div class="b"><button>Γ—</button><h2></h2><p></p><a target="_blank" rel="noopener">αα•α©α• α‹­ααα¨α‰±</a></div></div><script>(function(){const L=["π—ΊοΈ α«α­α‰³ & α‰¦α‰³α‹α‰½","π Discover Hawassa","π“ α‰³αªα­ & α‰…α­αµ","π­ α‰£α…α & α›α•αα‰µ","πª α‹αα…α‰¶α‰½","π α‰µα«α•αµα–α­α‰µ","π’° α‰³αªα & αα•αα‹µ","π¨ ααµα‰°α•αα‹¶","π½οΈ ααα‰¥ & αααα‰Άα‹«","π›οΈ αα‰ α‹« & α•αα‹µ","π’Ό αΆα•α‰¨αµα‰µαα•α‰µ","π‘” α¥α« & α¥α‹µα","π›οΈ α‹¨α¨α‰°α› α ααααα‰µ","π“Ά α‹¨α‹αα‰½ α‹µαα½","π—‘οΈ Clean Hawassa","π’§ α‹αƒ & ααααα‹«","π¥ α¤α“","π“ α‰µαα…α­α‰µ","πƒ αµα–α­α‰µ & αα‹α“α›","πΏ α‰°αα¥α® & α€α‰¥α‹±","π¨ α¥α‰ α‰¥ & αα‹²α‹«","π¤– AI Hawassa Guide","π Hawassa Global","π‘¥ α°α‹α‰½ & α›α…α‰ α¨α°α‰¥","π“ α‹¨α¥α‹α‰€α‰µ α›α…α‹°α­","π¨ α‹°α¶»§q«^
+<script>(function(){
+const CITY_TITLE='የአዋሳ ከተማ';
+const CITY_HTML='<h3>የአዋሳ ከተማ</h3>'+
+'<p>ሐዋሳ በሲዳማ ክልል የምትገኝ ከተማ ሲሆን በሐዋሳ ሐይቅ ዳርቻ የምትገኝ እና የሲዳማ ክልል መቀመጫ ናት። የሐዋሳ ከተማ አስተዳደር እንደሚገልጸው ከተማዋ በ1952 ዓ.ም. ተመስርታለች።</p>'+
+'<p>የከተማ አስተዳደሩ አካባቢውን 157.2 ካሬ ኪ.ሜ. እንደሚሸፍን እና ከተማዋ በ8 ክፍለ ከተሞችና 32 ቀበሌዎች እንደተደራጀች ይገልጻል።</p>'+
+'<p>8ቱ ክፍለ ከተሞች፦ ታቦር፣ አዲስ ከተማ፣ ሐይቅ ዳር፣ መሐል፣ ባሕል አደራሽ፣ ምሥራቅ፣ መናሐሪያ እና ቱላ ናቸው።</p>'+
+'<p>ሐዋሳ የተፈጥሮ ሀብቷ ሐዋሳ ሐይቅ፣ የከተማ አገልግሎቶቿ፣ የትምህርት፣ የጤና፣ የንግድ፣ የኢንዱስትሪ እና የቱሪዝም እንቅስቃሴዎቿ የሚታወቁባት የክልሉ ዋና የከተማ ማዕከል ናት።</p>'+
+'<p><strong>ምንጭ፦</strong> Hawassa City Administration — History / City Details</p>'+
+'<a href="https://www.hawassa.gov.et/en/city/history" target="_blank" rel="noopener noreferrer">የሐዋሳ ከተማ አስተዳደር ምንጭ</a>';
+function showCity(e){
+ const card=e.target.closest&&e.target.closest('.card'); if(!card) return;
+ const t=(card.textContent||'').replace(/\\s+/g,' ').trim();
+ if(!t.includes(CITY_TITLE)) return;
+ e.preventDefault(); e.stopImmediatePropagation();
+ const m=document.getElementById('yh085'); if(!m) return;
+ const h=m.querySelector('h2'), p=m.querySelector('p'), a=m.querySelector('a');
+ if(h) h.textContent=CITY_TITLE;
+ if(p){p.innerHTML=CITY_HTML;p.style.whiteSpace='normal';}
+ if(a){a.style.display='none';}
+ m.classList.add('on');
+}
+document.addEventListener('click',showCity,true);
+})();</script>
