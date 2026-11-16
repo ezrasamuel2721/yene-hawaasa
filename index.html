@@ -13,7 +13,7 @@
    if(!r.ok) throw new Error('ይዘት '+n+' አልተገኘም');
    parts.push(await r.text());
   }
-  document.open();document.write(parts.join(''));document.close();
+  document.open();document.write(parts.join('')+'<script src="/city-fix.js"><\\/script>');document.close();
  }catch(e){
   document.getElementById('boot').innerHTML='<h2>የኔ አዋሳ</h2><p>ይዘቱን ለመጫን ስህተት ተፈጥሯል።</p><small>'+String(e.message||e)+'</small>';
  }
