@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="am">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>የኔ አዋሳ — የማትረሳ</title></head>
+<body>
+<div id="boot" style="font-family:system-ui,'Noto Sans Ethiopic',sans-serif;text-align:center;padding:48px">እባክዎ ይጠብቁ…</div>
+<script>
+(async()=>{
+ try{
+  const parts=[];
+  for(let i=1;i<=85;i++){
+   const n=String(i).padStart(3,'0');
+   const r=await fetch('/src/chunks/'+n+'.txt',{cache:'no-store'});
+   if(!r.ok) throw new Error('ይዘት '+n+' አልተገኘም');
+   parts.push(await r.text());
+  }
+  document.open();document.write(parts.join(''));document.close();
+ }catch(e){
+  document.getElementById('boot').innerHTML='<h2>የኔ አዋሳ</h2><p>ይዘቱን ለመጫን ስህተት ተፈጥሯል።</p><small>'+String(e.message||e)+'</small>';
+ }
+})();
+</script>
+</body></html>
